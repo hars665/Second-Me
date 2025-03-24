@@ -188,3 +188,4 @@ Second Me is open source software licensed under the Apache License 2.0. See the
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mindverse/Second-Me&type=Date" />
  </picture>
 </a>
+.github/ISSUE_TEMPLATE/feature_request.md
